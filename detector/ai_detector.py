@@ -7,7 +7,7 @@ import unicodedata
 from config import settings
 from config.keywords import INDUSTRY_TERMS, NEED_INTENT_TERMS, SELLER_INTENT_TERMS
 
-
+#ca
 BUYER_CONTEXT_TERMS = [
     "planta",
     "fabrica",
